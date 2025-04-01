@@ -20,6 +20,6 @@ const styles = StyleSheet.create({
         fontSize: 24,
         fontWeight: "bold",
         marginTop: 10,
-        color: "purplewhite",
+        color: "white",
     },
 });
